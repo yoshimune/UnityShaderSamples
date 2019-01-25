@@ -1,4 +1,4 @@
-﻿Shader "Hidden/PostProcessTest"
+﻿Shader "Hidden/PostProcessing/SimpleMultiply"
 {
     Properties
     {

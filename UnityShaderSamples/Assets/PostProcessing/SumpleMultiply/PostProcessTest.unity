@@ -144,6 +144,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shader: {fileID: 4800000, guid: bd463b1bbf94af145ac2fdf4faf6e7fc, type: 3}
+  color: {r: 0, g: 1, b: 0.2607293, a: 0}
 --- !u!81 &264018738
 AudioListener:
   m_ObjectHideFlags: 0
